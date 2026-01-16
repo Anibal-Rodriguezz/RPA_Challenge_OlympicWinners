@@ -1,0 +1,6 @@
+{
+  "Name": "RPA_Challenge_OlympicWinners",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework",
+  "MainFile": "Main.xaml"
+}
