@@ -1,0 +1,375 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 1,
+        "idRef": "NExtractDataGeneric`1_1",
+        "hash": "NExtractDataGeneric`1_1|DataTable|u8DMK41KTSmhWZMY9D91caWNYMR9IPvfj9iUnXmEkM",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Nation",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Gold",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Silver",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Bronze",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable1",
+        "hash": "NExtractDataGeneric`1_1|DataTable|pwp5tkbnMHJzcLtYblS1urlC4IioI83VmHOYEABA",
+        "assemblyName": "Studio.Generated.TypedDataTable1"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 2,
+        "idRef": "NExtractDataGeneric`1_2",
+        "hash": "NExtractDataGeneric`1_2|DataTable|u8DMK41KTSmhWZMY9D91caWNYMR9IPvfj9iUnXmEkM",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Nation",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Gold",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Silver",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Bronze",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable2",
+        "hash": "NExtractDataGeneric`1_2|DataTable|pwp5tkbnMHJzcLtYblS1urlC4IioI83VmHOYEABA",
+        "assemblyName": "Studio.Generated.TypedDataTable2"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 3,
+        "idRef": "NExtractDataGeneric`1_4",
+        "hash": "NExtractDataGeneric`1_4|DataTable|u8DMK41KTSmhWZMY9D91caWNYMR9IPvfj9iUnXmEkM",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Nation",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Gold",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Silver",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Bronze",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable3",
+        "hash": "NExtractDataGeneric`1_4|DataTable|pwp5tkbnMHJzcLtYblS1urlC4IioI83VmHOYEABA",
+        "assemblyName": "Studio.Generated.TypedDataTable3"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 4,
+        "idRef": "NExtractDataGeneric`1_1",
+        "hash": "NExtractDataGeneric`1_1|DataTable|u8DMK41KTSmhWZMY9D91caWNYMR9IPvfj9iUnXmEkM",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Nation",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Gold",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Silver",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Bronze",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable4",
+        "hash": "NExtractDataGeneric`1_1|DataTable|pwp5tkbnMHJzcLtYblS1urlC4IioI83VmHOYEABA",
+        "assemblyName": "Studio.Generated.TypedDataTable4"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 5,
+        "idRef": "NExtractDataGeneric`1_6",
+        "hash": "NExtractDataGeneric`1_6|DataTable|kaUX4P2icwDMaNu5xHQCNGq9non9J2iY7dgt0tk",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Rank",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Nation",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Gold",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Silver",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Bronze",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Total",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable5",
+        "hash": "NExtractDataGeneric`1_6|DataTable|yVVGYg7eOTgw7GVgMJdsdewGwgkgHXFuiIWToE",
+        "assemblyName": "Studio.Generated.TypedDataTable5"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 6,
+        "idRef": "NExtractDataGeneric`1_7",
+        "hash": "NExtractDataGeneric`1_7|DataTable|kaUX4P2icwDMaNu5xHQCNGq9non9J2iY7dgt0tk",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Rank",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Nation",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Gold",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Silver",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Bronze",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Total",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable6",
+        "hash": "NExtractDataGeneric`1_7|DataTable|yVVGYg7eOTgw7GVgMJdsdewGwgkgHXFuiIWToE",
+        "assemblyName": "Studio.Generated.TypedDataTable6"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 7,
+        "idRef": "NExtractDataGeneric`1_8",
+        "hash": "NExtractDataGeneric`1_8|DataTable|kaUX4P2icwDMaNu5xHQCNGq9non9J2iY7dgt0tk",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Rank",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Nation",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Gold",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Silver",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Bronze",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Total",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable7",
+        "hash": "NExtractDataGeneric`1_8|DataTable|yVVGYg7eOTgw7GVgMJdsdewGwgkgHXFuiIWToE",
+        "assemblyName": "Studio.Generated.TypedDataTable7"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 8,
+        "idRef": "NExtractDataGeneric`1_9",
+        "hash": "NExtractDataGeneric`1_9|DataTable|kaUX4P2icwDMaNu5xHQCNGq9non9J2iY7dgt0tk",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Rank",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Nation",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Gold",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Silver",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Bronze",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Total",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable8",
+        "hash": "NExtractDataGeneric`1_9|DataTable|yVVGYg7eOTgw7GVgMJdsdewGwgkgHXFuiIWToE",
+        "assemblyName": "Studio.Generated.TypedDataTable8"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 9,
+        "idRef": "NExtractDataGeneric`1_10",
+        "hash": "NExtractDataGeneric`1_10|DataTable|kaUX4P2icwDMaNu5xHQCNGq9non9J2iY7dgt0tk",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Rank",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Nation",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Gold",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Silver",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Bronze",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Total",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable9",
+        "hash": "NExtractDataGeneric`1_10|DataTable|yVVGYg7eOTgw7GVgMJdsdewGwgkgHXFuiIWToE",
+        "assemblyName": "Studio.Generated.TypedDataTable9"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 10,
+        "idRef": "NExtractDataGeneric`1_11",
+        "hash": "NExtractDataGeneric`1_11|DataTable|kaUX4P2icwDMaNu5xHQCNGq9non9J2iY7dgt0tk",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Rank",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Nation",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Gold",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Silver",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Bronze",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Total",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable10",
+        "hash": "NExtractDataGeneric`1_11|DataTable|yVVGYg7eOTgw7GVgMJdsdewGwgkgHXFuiIWToE",
+        "assemblyName": "Studio.Generated.TypedDataTable10"
+      }
+    }
+  ]
+}

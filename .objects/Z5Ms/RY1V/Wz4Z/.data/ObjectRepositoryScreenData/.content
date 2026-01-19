@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="6FFWscyM7UadNdC0aq5tOQ" Reference="SF1X5LhBlUGqvYJFTOaIrg/Wz4Z1MPEOUyjqEcC-vK1RA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Chrome" ContentHash="AuzcYsTTe06QbBZEA3I0iw" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADdSURBVDhPpZMBDYQwDEWZCiQgAgVIQQIGcDALGJiNGcAAMtjl7e6TboRLAJIG1nWvv5+saX7Pvu/pTujco8MFpE7ejfeAGGPq+x45yXufk8MwHOtt2/I+wfeyLKlt21yzrutXARvOuRRCyADWXdcVQHLqCuxQoA+K7IY6AZ3nucgLXAAYBdm8lUMFobUa2XVhIpu2YBzHrMI2mabpGoBcvMAcAQEgW0DrxQlAIJkuwJiV+clxEEBdfwLQDRUaRX8Ig60/lwAC2dZpOtfm/QXIAxv17AfgzX14dSN17gNzNVPv1Lf+SwAAAABJRU5ErkJggg==" Reference="SF1X5LhBlUGqvYJFTOaIrg/Wz4Z1MPEOUyjqEcC-vK1RA" Selector="&lt;html app='chrome.exe' title='1896 Summer Olympics - Wikipedia' /&gt;" Url="[&quot;https://en.wikipedia.org/wiki/&quot; + strYear + &quot;_Summer_Olympics&quot;]" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="45330a53ea7a24bfcf472d5fefc516fb.jpg" xmlns="">06UsUiPZV-UqGuRnF2RJ17w</imageRef>
+    </TargetApp>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="strYear" />
+    </scg:List>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
